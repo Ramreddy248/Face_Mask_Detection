@@ -17,7 +17,7 @@ board accordingly.
 ### Results 
 1. Face Mask detection
 
-![face_mask_de](https://user-images.githubusercontent.com/92446670/176646900-8fe106c3-3278-469a-9f8e-7f74b3bbf235.gif)
+![face_mask_de]()
 
 
 3. Hardware Simulation in Tinkercad
